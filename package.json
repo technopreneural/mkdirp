@@ -1,0 +1,14 @@
+{
+  "name": "mkdirp",
+  "version": "1.0.0",
+  "description": "An implementation of the command `mkdir -p <new_folder>` that utilizes async function versions of the native filesystem api of node js",
+  "main": "mkdirp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mkdirp"
+  ],
+  "author": "Ronald Robin",
+  "license": "ISC"
+}
