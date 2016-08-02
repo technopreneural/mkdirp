@@ -1,0 +1,6 @@
+{
+  "name": "Mkdirp",
+  "tagline": "An implementation of the command `mkdir -p` in node js",
+  "body": "### Overview\r\nThis project aims to implement the functionality of the Linux/Unix CLI command `mkdir -p` in Node JS as a learning exercise.\r\n\r\n### Motivation\r\nJust like most other developers, we found our web project workflow required a lot of automated file manipulation. Copying, moving, renaming, and deleting files and folders. This node module allows us to programmatically create a folder as well as the path to it if the path doesn't exist.\r\n\r\n### History\r\nIn the implementation of a general purpose automated build workflow for web projects (i.e. that can be used as a template for other projects), we initially opted to use Grunt and eventually settled with Gulp. Both are based on Javascript and both relied heavily on other packages to support functionality required by common web project workflows. This project attempts to deliver a module that provides one such functionality.\r\n\r\n### Related Projects\r\nThere are a few other projects that we've started that is related to this one. This includes:\r\n* [rmrf](https://github.com/technopreneural/rmrf)\r\n* [lsr](https://github.com/technopreneural/lsr)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
